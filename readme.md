@@ -29,12 +29,14 @@ Este projeto se trata de um data logger, com a capacidade de coletar temperatura
 <p align="center">Placa de montagem</p>
 A tabela abaixo exibe as opções de comandos. Caso algum comando não seja possível, o erro será tratado e o usuário é informado. Um comando é enviado quando pressionada a tecla "#", e apagado quando pressionado a tecla "*".
 
+
 | Comando | Função| Resposta |
 | ---  | ---  | --- |
-| 1 | Reset | Apaga toda a memória, com aviso no _display_ |
-| 2 | Ocupação | Mostra no _display_ o número de dados gravados e o número de medições disponíveis |
-| 3 | Iniciar coleta | Mostra mensagem de coleta iniciada no _display_ |
-| 4 | Finalizar coleta| Mostra mensagem de coleta finalizada no _display_ |
-| 5 | Transferir dados | Envia pela porta serial os dados coletados, mostrando mensagem do andamento da transferência ("i de N...") no _display_ LCD. |
+| 1 | Reset | Apaga toda a memória, com aviso no display |
+| 2 | Ocupação | Mostra no display o número de dados gravados e o número de medições disponíveis |
+| 3 | Iniciar coleta | Mostra mensagem de coleta iniciada no display |
+| 4 | Finalizar coleta| Mostra mensagem de coleta finalizada no display |
+| 5 | Transferir dados | Envia pela porta serial os dados coletados, mostrando mensagem do andamento da transferência ("i de N...") no display LCD. |
+
 
 <p align="center">Tabela de comandos</p>
