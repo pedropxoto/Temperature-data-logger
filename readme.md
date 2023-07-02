@@ -19,7 +19,7 @@ Este projeto se trata de um data logger, com a capacidade de coletar temperatura
 
 <p align="center">
   <img src="images/diagrama_blocos_logger.png" alt="Diagrama de blocos">
-  <p>Diagrama de blocos</p>
+  <p align="center">Diagrama de blocos</p>
 </p>
 
 ![esquemático](./images/esquematico_logger.png)
