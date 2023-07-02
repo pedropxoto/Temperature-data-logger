@@ -31,12 +31,12 @@ A tabela abaixo exibe as opções de comandos. Caso algum comando não seja poss
 
 
 | Comando | Função| Resposta |
-| ---  | ---  | --- |
+| --- | --- | --- |
 | 1 | Reset | Apaga toda a memória, com aviso no display |
 | 2 | Ocupação | Mostra no display o número de dados gravados e o número de medições disponíveis |
 | 3 | Iniciar coleta | Mostra mensagem de coleta iniciada no display |
 | 4 | Finalizar coleta| Mostra mensagem de coleta finalizada no display |
-| 5 | Transferir dados | Envia pela porta serial os dados coletados, mostrando mensagem do andamento da transferência ("i de N...") no display LCD. |
+| 5 | Transferir dados | Envia pela porta serial os dados coletados, mostrando mensagem do andamento da transferência ("i de N...") no display LCD |
 
 
 <p align="center">Tabela de comandos</p>
