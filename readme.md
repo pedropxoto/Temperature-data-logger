@@ -25,8 +25,10 @@ Este projeto se trata de um data logger, com a capacidade de coletar temperatura
 ![esquemático](./images/esquematico_logger.png)
 <p align="center">Esquemático do sistema</p>
 
-  ![esquemático](./images/montagem_logger.png)
-<p align="center">Placa de montagem</p>
+<p align="center">
+  <img src="images/montagem_logger.png" alt="Placa de Montagem">
+  <p align="center">Placa de Montagem</p>
+</p>
 A tabela abaixo exibe as opções de comandos. Caso algum comando não seja possível, o erro será tratado e o usuário é informado. Um comando é enviado quando pressionada a tecla "#", e apagado quando pressionado a tecla "*".
 
 
